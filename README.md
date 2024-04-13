@@ -1,6 +1,8 @@
 # MultiTask_Swing
 Deep MultiTask neural networks for the pricing of swing options.
 
+(Accepted at the International Joint Conference on Neural Network IJCNN 2024)
+
 # Configurations
 
 ```
